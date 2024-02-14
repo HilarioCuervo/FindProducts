@@ -1,5 +1,4 @@
 # FindProducts App
-</br>
 
 FindProducts is an App developed for MercadoLibre selection process.
 The app consists on 3 basic functionalities:
@@ -8,7 +7,6 @@ The app consists on 3 basic functionalities:
   - Pick a product
 
 
-</br>
 ## How to run the app?
 
 ### 1. Clone the repository
@@ -23,7 +21,6 @@ open FindProducts.xcodeproj
 ```
 
 
-</br>
 ## Contact Me
 
 hilariocuervo2@gmail.com
