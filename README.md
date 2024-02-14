@@ -8,6 +8,7 @@ The app consists on 3 basic functionalities:
   - See all the results
   - Pick a product
 
+</br>
 
 ## How to run the app?
 </br>
